@@ -1,4 +1,4 @@
-libname sdtm "C:\review2\SHR-1210-101 SDTM eSub\SHR-1210-101 eSub Package 20220304\datasets\SHR-1210-101\tabulations\sdtm";
+libname sdtm "C:\review2\sdtm";
 
 
 
